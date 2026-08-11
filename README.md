@@ -4,6 +4,12 @@ A place for investors.
 
 You're already meeting a ton of people every day on your TikTok Lives. This app gives you a way to keep that connection going after the live ends. One link you drop in chat turns viewers into a paying, recurring community instead of a crowd that watches once and disappears.
 
+## Live demo
+
+https://triarc-developers.github.io/NaijaOS-Table/
+
+That's the actual site, live right now. It's early, just the landing page so far, but once we finish building out the Table, the Assistant, and the Dashboard, this exact link is what you drop in chat during your Lives. Someone watching sees it, clicks it, and lands somewhere built to turn them into a member instead of just scrolling past.
+
 ## What it actually is
 
 Three pieces, working together.
